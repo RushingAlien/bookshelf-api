@@ -1,6 +1,15 @@
 # Bookshelf API
 Tugas proyek akhir kelas **Belajar Membuat Aplikasi Back-End untuk Pemula dengan Google Cloud**.
 
+Pasang dependensi :
+```
+npm install
+```
+Jalankan :
+```
+npm run start
+```
+
 # Deskripsi Kelas
 Selamat datang di kelas Belajar Membuat Aplikasi Back-End untuk Pemula dengan Google Cloud. Kelas ini akan mengantarkan Anda menjadi seorang Back-End Developer melalui studi kasus membangun Web Service sederhana dalam mendukung aplikasi atau web aplikasi.
 
